@@ -67,7 +67,7 @@ const WHO = {
  > 
 > 📜 39 Public Repositories 
  > 
-> 🔑 00 Private Repositories  
+> 🔑 01 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
