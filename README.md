@@ -65,7 +65,7 @@ const WHO = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 01 Private Repositories  
  > 
